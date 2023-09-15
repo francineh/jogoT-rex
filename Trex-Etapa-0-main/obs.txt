@@ -1,0 +1,3 @@
+Neste projeto foi desenvolvido conhecimentos de como manter uma rolagem infinita do cenário, colisão dos personagens, reniciar o jogo.
+este projeto foi desenvolvido usando tecnologias: HTML, CSS3,JAVASCRIPT.
+projeto realizado de forma profissional. 
